@@ -1,5 +1,3 @@
-echo "# Project Name
-
 ## Backend (.NET)
 
 ### Prerequisites
