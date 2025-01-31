@@ -1,5 +1,4 @@
-## Backend (.NET)
-
+## Documentation
 ### Prerequisites
 - .NET 8 or later installed
 - SQL Server or any required database setup
